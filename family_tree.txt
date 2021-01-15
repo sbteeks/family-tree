@@ -1,0 +1,28 @@
+Parent id: null
+Node id: 0
+Node name: grandpa
+
+Parent id: 0
+Node id: 1
+Node name: son
+
+Parent id: 1
+Node id: 3
+Node name: grandkid
+
+Parent id: 1
+Node id: 4
+Node name: grandkid
+
+Parent id: 0
+Node id: 2
+Node name: daugther
+
+Parent id: 2
+Node id: 5
+Node name: grandkid
+
+Parent id: 5
+Node id: 6
+Node name: greatgrandkid
+
